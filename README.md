@@ -1,4 +1,4 @@
-# ©ю╣Р╪рга SDK
+# OdinSoft SDK
 
 The SDK provided by the OdinSoftware.The projects you're using include [dotnet.highstock](https://github.com/lisa3907/dotnet.highstock) and [Open eTaxBill](https://github.com/open-etaxbill).
 
