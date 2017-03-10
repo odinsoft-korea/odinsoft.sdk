@@ -1,6 +1,6 @@
 # 오딘소프 SDK
 
-오딘소프트 SDK(Software-Development-Kit)입니다.
+The SDK provided by the OdinSoftware.The projects you're using include [dotnet.highstock](https://github.com/lisa3907/dotnet.highstock) and [Open eTaxBill](https://github.com/open-etaxbill).
 
 
 ## Getting Started

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Title>OdinSoft SDK Base Library</Title>
+    <Description>Base Library for OdinSoft SDK</Description>
+    <Copyright>Copyright OdinSoftware Co., Ltd. 2017</Copyright>
+    <AssemblyTitle>OdinSdk.BaseLib</AssemblyTitle>
+    <VersionPrefix>1.0.1</VersionPrefix>
+    <Authors>SEONGAHN LEE</Authors>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <AssemblyName>OdinSdk.BaseLib.Core</AssemblyName>
+    <PackageId>OdinSdk.BaseLib.Core</PackageId>
+    <PackageTags>sdk;odinsoft;library</PackageTags>
+    <PackageIconUrl>https://github.com/odin-software/open-sdk/blob/master/logo-files/odinsoft-sdk.ico?raw=true</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/odin-software/open-sdk</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/odin-software/open-sdk/blob/master/LICENSE</PackageLicenseUrl>
+    <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+    <PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <RootNamespace>OdinSdk.BaseLib.Core</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
